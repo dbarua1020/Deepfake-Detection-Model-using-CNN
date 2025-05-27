@@ -24,10 +24,10 @@ This repository contains a deep learning-based solution for detecting deepfake v
   - Dropout
   - Output: Sigmoid activation for binary classification
 
-<img width="301" alt="image" src="https://github.com/user-attachments/assets/d965cbf0-3dad-4e0e-be00-f173de600f87" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/d965cbf0-3dad-4e0e-be00-f173de600f87" />
 
 <br> <br>
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/6acbb27c-3dcb-46ff-ab7f-49847d26b5b6" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/6acbb27c-3dcb-46ff-ab7f-49847d26b5b6" />
 
 Comparison of different models
 
