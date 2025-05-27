@@ -14,6 +14,8 @@ This repository contains a deep learning-based solution for detecting deepfake v
 
 ## 🧪 Model Architecture
 
+<img width="296" alt="image" src="https://github.com/user-attachments/assets/19e46b49-61c7-4b38-b7ce-0ea5ad720a4d" />
+
 - **Base**: [EfficientNetB0](https://arxiv.org/abs/1905.11946) (pre-trained on ImageNet)
 - **Custom Head**:
   - Global Average Pooling
@@ -21,6 +23,13 @@ This repository contains a deep learning-based solution for detecting deepfake v
   - Dense Layer (256 units, ReLU, L2 regularization)
   - Dropout
   - Output: Sigmoid activation for binary classification
+
+<img width="301" alt="image" src="https://github.com/user-attachments/assets/d965cbf0-3dad-4e0e-be00-f173de600f87" />
+
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/6acbb27c-3dcb-46ff-ab7f-49847d26b5b6" />
+
+Comparison of different models
 
 ## ⚙️ Training Configuration
 
@@ -59,8 +68,9 @@ This repository contains a deep learning-based solution for detecting deepfake v
 - Modular, scalable architecture
 - Real-time processing capability
 
-## 💾 Model Export
+## 📄 Research Publication
 
-The final trained model is saved in:
-```bash
-improved_deepfake_model.keras
+As part of our academic contributions, we have authored a research paper titled **"Deepfake Detection using Convolutional Neural Networks (CNN)"**, which was submitted to the **Sixth International Conference on Computing Communication and Industry Standard** on **12th May 2025** (Paper ID: 21). 
+
+The paper, currently under review, presents our methodology for building an efficient deepfake detection system using CNNs, with a focus on preserving digital media integrity. This submission reflects our commitment to advancing research in AI and cybersecurity.
+
