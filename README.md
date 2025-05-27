@@ -14,7 +14,7 @@ This repository contains a deep learning-based solution for detecting deepfake v
 
 ## 🧪 Model Architecture
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/19e46b49-61c7-4b38-b7ce-0ea5ad720a4d" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/19e46b49-61c7-4b38-b7ce-0ea5ad720a4d" />
 
 - **Base**: [EfficientNetB0](https://arxiv.org/abs/1905.11946) (pre-trained on ImageNet)
 - **Custom Head**:
